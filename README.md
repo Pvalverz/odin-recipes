@@ -1,1 +1,1 @@
-En este proyecto demostrare mis habilidades aprendidas de html haciendo un pequeño blog solo con html no css
+En este proyecto demostrare mis habilidades aprendidas de html haciendo un pequeño blog solo con html no css.
